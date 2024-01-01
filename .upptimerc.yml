@@ -22,6 +22,7 @@ status-website:
   name: Upptime
   introTitle: "**Upptime**"
   introMessage: 
+  robotsText: "User-agent: * \n Disallow: /"
   navbar:
     - title: Status
       href: /uptime
