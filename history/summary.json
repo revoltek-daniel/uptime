@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.revoltek.de.ico",
     "slug": "revoltek",
     "status": "up",
-    "uptime": "97.07%",
-    "uptimeDay": "77.51%",
+    "uptime": "97.08%",
+    "uptimeDay": "78.55%",
     "uptimeWeek": "94.65%",
-    "uptimeMonth": "97.07%",
-    "uptimeYear": "97.07%",
+    "uptimeMonth": "97.08%",
+    "uptimeYear": "97.08%",
     "time": 1513,
-    "timeDay": 2212,
+    "timeDay": 2267,
     "timeWeek": 1718,
     "timeMonth": 1513,
     "timeYear": 1513,
@@ -70,9 +70,9 @@
     "url": "https://mein-markt.trinkgut.de",
     "icon": "https://icons.duckduckgo.com/ip3/mein-markt.trinkgut.de.ico",
     "slug": "markt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -82,6 +82,7 @@
     "timeMonth": 607,
     "timeYear": 607,
     "dailyMinutesDown": {
+      "2024-01-14": 0,
       "2024-01-05": 7
     }
   }
