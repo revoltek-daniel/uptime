@@ -1,33 +1,5 @@
 [
   {
-    "name": "Revoltek",
-    "url": "https://www.revoltek.de",
-    "icon": "https://icons.duckduckgo.com/ip3/www.revoltek.de.ico",
-    "slug": "revoltek",
-    "status": "up",
-    "uptime": "96.78%",
-    "uptimeDay": "75.02%",
-    "uptimeWeek": "94.01%",
-    "uptimeMonth": "96.78%",
-    "uptimeYear": "96.78%",
-    "time": 1813,
-    "timeDay": 2929,
-    "timeWeek": 2071,
-    "timeMonth": 1813,
-    "timeYear": 1813,
-    "dailyMinutesDown": {
-      "2024-01-14": 257,
-      "2024-01-13": 219,
-      "2024-01-12": 39,
-      "2024-01-11": 40,
-      "2024-01-10": 7,
-      "2024-01-09": 37,
-      "2024-01-05": 6,
-      "2024-01-02": 9,
-      "2024-01-01": 14
-    }
-  },
-  {
     "name": "Phantasialand",
     "url": "https://shop.phantasialand.de",
     "icon": "https://icons.duckduckgo.com/ip3/shop.phantasialand.de.ico",
@@ -38,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1161,
-    "timeDay": 1525,
-    "timeWeek": 1295,
-    "timeMonth": 1161,
-    "timeYear": 1161,
+    "time": 1182,
+    "timeDay": 1559,
+    "timeWeek": 1303,
+    "timeMonth": 1182,
+    "timeYear": 1182,
     "dailyMinutesDown": {}
   },
   {
@@ -56,11 +28,11 @@
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 1276,
-    "timeDay": 1451,
-    "timeWeek": 1720,
-    "timeMonth": 1276,
-    "timeYear": 1276,
+    "time": 1285,
+    "timeDay": 1443,
+    "timeWeek": 1721,
+    "timeMonth": 1285,
+    "timeYear": 1285,
     "dailyMinutesDown": {
       "2024-01-12": 7
     }
@@ -76,11 +48,11 @@
     "uptimeWeek": "99.86%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 602,
-    "timeDay": 663,
-    "timeWeek": 670,
-    "timeMonth": 602,
-    "timeYear": 602,
+    "time": 611,
+    "timeDay": 647,
+    "timeWeek": 669,
+    "timeMonth": 611,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2024-01-14": 14,
       "2024-01-05": 7
