@@ -70,5 +70,23 @@
       "2024-01-14": 14,
       "2024-01-05": 7
     }
+  },
+  {
+    "name": "BK Trinkgut",
+    "url": "https://werbung.trinkgut.de/frontend/mvc/catalog/by-name/10986/newest",
+    "icon": "https://icons.duckduckgo.com/ip3/werbung.trinkgut.de.ico",
+    "slug": "bk-trinkgut",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 4121,
+    "timeDay": 4121,
+    "timeWeek": 4121,
+    "timeMonth": 4121,
+    "timeYear": 4121,
+    "dailyMinutesDown": {}
   }
 ]
