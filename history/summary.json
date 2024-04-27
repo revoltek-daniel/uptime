@@ -76,17 +76,19 @@
     "url": "https://werbung.trinkgut.de/frontend/mvc/catalog/by-name/10986/newest",
     "icon": "https://icons.duckduckgo.com/ip3/werbung.trinkgut.de.ico",
     "slug": "bk-trinkgut",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3309,
-    "timeDay": 3309,
-    "timeWeek": 3309,
-    "timeMonth": 3309,
-    "timeYear": 3309,
-    "dailyMinutesDown": {}
+    "time": 2419,
+    "timeDay": 1568,
+    "timeWeek": 2419,
+    "timeMonth": 2419,
+    "timeYear": 2419,
+    "dailyMinutesDown": {
+      "2024-04-27": 0
+    }
   }
 ]
