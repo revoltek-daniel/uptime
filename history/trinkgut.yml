@@ -1,7 +1,7 @@
 url: https://www.trinkgut.de
-status: up
-code: 200
-responseTime: 848
-lastUpdated: 2024-05-14T23:17:47.913Z
+status: down
+code: 500
+responseTime: 655
+lastUpdated: 2024-05-15T08:32:51.231Z
 startTime: 2024-01-01T00:16:18.786Z
 generator: Upptime <https://github.com/upptime/upptime>
