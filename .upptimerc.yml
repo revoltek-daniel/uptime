@@ -22,14 +22,7 @@ status-website:
   theme: dark
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  workflowSchedule:
-    graphs: "0 0 * * *"
-    responseTime: "0 */2 * * *"
-    staticSite: "0 1 * * *"
-    summary: "0 0 * * *"
-    updateTemplate: "0 0 * * *"
-    updates: "0 3 * * *"
-    uptime: "*/5 * * * *"
+
   introTitle: "**Upptime**"
   introMessage: 
   robotsText: "User-agent: * \n Disallow: /"
@@ -38,6 +31,13 @@ status-website:
       href: /uptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 */2 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
