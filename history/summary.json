@@ -6,17 +6,16 @@
     "slug": "phantasialand",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.09%",
     "time": 1330,
-    "timeDay": 1393,
+    "timeDay": 1392,
     "timeWeek": 1526,
-    "timeMonth": 1439,
+    "timeMonth": 1438,
     "timeYear": 1335,
     "dailyMinutesDown": {
-      "2025-05-03": 8,
       "2025-04-28": 17,
       "2025-03-23": 20,
       "2025-03-13": 18,
@@ -53,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1082,
-    "timeDay": 1169,
-    "timeWeek": 1179,
+    "timeDay": 1168,
+    "timeWeek": 1180,
     "timeMonth": 1112,
     "timeYear": 1082,
     "dailyMinutesDown": {
@@ -77,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 652,
-    "timeDay": 679,
+    "timeDay": 680,
     "timeWeek": 693,
-    "timeMonth": 662,
+    "timeMonth": 661,
     "timeYear": 654,
     "dailyMinutesDown": {
       "2025-01-12": 60,
@@ -99,9 +98,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.68%",
     "time": 2138,
-    "timeDay": 2411,
-    "timeWeek": 2244,
-    "timeMonth": 2141,
+    "timeDay": 2402,
+    "timeWeek": 2243,
+    "timeMonth": 2140,
     "timeYear": 2137,
     "dailyMinutesDown": {
       "2025-04-19": 16,
@@ -131,8 +130,7 @@
       "2024-05-18": 107,
       "2024-05-12": 1,
       "2024-05-11": 111,
-      "2024-05-05": 29,
-      "2024-05-04": 108
+      "2024-05-05": 29
     }
   }
 ]
