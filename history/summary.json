@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.09%",
     "time": 1332,
-    "timeDay": 1370,
-    "timeWeek": 1324,
-    "timeMonth": 1413,
+    "timeDay": 1431,
+    "timeWeek": 1349,
+    "timeMonth": 1412,
     "timeYear": 1336,
     "dailyMinutesDown": {
       "2025-04-28": 17,
@@ -44,14 +44,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.trinkgut.de.ico",
     "slug": "trinkgut",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1082,
-    "timeDay": 1023,
-    "timeWeek": 1067,
+    "timeDay": 1174,
+    "timeWeek": 1087,
     "timeMonth": 1104,
     "timeYear": 1082,
     "dailyMinutesDown": {
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 652,
-    "timeDay": 621,
-    "timeWeek": 647,
-    "timeMonth": 658,
+    "timeDay": 708,
+    "timeWeek": 661,
+    "timeMonth": 656,
     "timeYear": 654,
     "dailyMinutesDown": {
       "2025-01-12": 60,
@@ -93,12 +93,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.73%",
+    "uptimeYear": "99.75%",
     "time": 2137,
-    "timeDay": 2064,
-    "timeWeek": 2111,
-    "timeMonth": 2129,
-    "timeYear": 2137,
+    "timeDay": 2296,
+    "timeWeek": 2140,
+    "timeMonth": 2136,
+    "timeYear": 2138,
     "dailyMinutesDown": {
       "2025-05-10": 16,
       "2025-04-19": 16,
@@ -123,8 +123,7 @@
       "2024-06-02": 77,
       "2024-06-01": 102,
       "2024-05-26": 42,
-      "2024-05-25": 104,
-      "2024-05-19": 39
+      "2024-05-25": 104
     }
   }
 ]
