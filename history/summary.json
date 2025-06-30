@@ -11,10 +11,10 @@
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.06%",
     "time": 1342,
-    "timeDay": 1269,
-    "timeWeek": 1285,
-    "timeMonth": 1336,
-    "timeYear": 1345,
+    "timeDay": 1251,
+    "timeWeek": 1298,
+    "timeMonth": 1333,
+    "timeYear": 1346,
     "dailyMinutesDown": {
       "2025-06-11": 148,
       "2025-06-10": 5,
@@ -53,8 +53,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1083,
-    "timeDay": 1112,
-    "timeWeek": 1069,
+    "timeDay": 1028,
+    "timeWeek": 1081,
     "timeMonth": 1076,
     "timeYear": 1084,
     "dailyMinutesDown": {
@@ -76,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 654,
-    "timeDay": 652,
-    "timeWeek": 642,
-    "timeMonth": 647,
+    "timeDay": 612,
+    "timeWeek": 644,
+    "timeMonth": 646,
     "timeYear": 655,
     "dailyMinutesDown": {
       "2025-01-12": 60,
@@ -92,15 +92,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/werbung.trinkgut.de.ico",
     "slug": "bk-trinkgut",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
+    "uptimeYear": "99.94%",
     "time": 2134,
-    "timeDay": 2170,
-    "timeWeek": 2175,
-    "timeMonth": 2189,
+    "timeDay": 2287,
+    "timeWeek": 2213,
+    "timeMonth": 2198,
     "timeYear": 2131,
     "dailyMinutesDown": {
       "2025-05-10": 16,
@@ -113,8 +113,7 @@
       "2024-08-04": 71,
       "2024-08-03": 2,
       "2024-07-28": 56,
-      "2024-07-27": 4,
-      "2024-06-30": 72
+      "2024-07-27": 4
     }
   }
 ]
