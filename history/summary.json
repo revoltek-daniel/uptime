@@ -10,11 +10,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.01%",
-    "time": 1352,
-    "timeDay": 1222,
-    "timeWeek": 1245,
+    "time": 1351,
+    "timeDay": 1158,
+    "timeWeek": 1241,
     "timeMonth": 1277,
-    "timeYear": 1354,
+    "timeYear": 1353,
     "dailyMinutesDown": {
       "2025-08-18": 28,
       "2025-08-11": 39,
@@ -62,8 +62,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1088,
-    "timeDay": 1092,
-    "timeWeek": 1100,
+    "timeDay": 1089,
+    "timeWeek": 1105,
     "timeMonth": 1085,
     "timeYear": 1090,
     "dailyMinutesDown": {
@@ -86,9 +86,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 659,
-    "timeDay": 661,
-    "timeWeek": 647,
-    "timeMonth": 661,
+    "timeDay": 648,
+    "timeWeek": 650,
+    "timeMonth": 662,
     "timeYear": 660,
     "dailyMinutesDown": {
       "2025-01-12": 60
@@ -106,10 +106,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
     "time": 2186,
-    "timeDay": 2503,
-    "timeWeek": 2473,
-    "timeMonth": 2373,
-    "timeYear": 2186,
+    "timeDay": 2385,
+    "timeWeek": 2458,
+    "timeMonth": 2372,
+    "timeYear": 2185,
     "dailyMinutesDown": {
       "2025-08-02": 19,
       "2025-07-26": 19,
@@ -129,17 +129,19 @@
     "url": "https://www.audibkk.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.audibkk.de.ico",
     "slug": "audibkk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 951,
-    "timeDay": 1011,
+    "time": 950,
+    "timeDay": 960,
     "timeWeek": 967,
-    "timeMonth": 937,
-    "timeYear": 951,
-    "dailyMinutesDown": {}
+    "timeMonth": 936,
+    "timeYear": 950,
+    "dailyMinutesDown": {
+      "2025-08-25": 1
+    }
   }
 ]
