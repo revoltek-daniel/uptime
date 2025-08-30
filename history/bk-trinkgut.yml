@@ -1,7 +1,7 @@
 url: https://werbung.trinkgut.de/frontend/mvc/catalog/by-name/10986/newest
-status: up
-code: 200
-responseTime: 2269
-lastUpdated: 2025-08-30T20:18:18.986Z
+status: down
+code: 410
+responseTime: 554
+lastUpdated: 2025-08-30T22:09:47.196Z
 startTime: 2024-04-26T13:22:20.367Z
 generator: Upptime <https://github.com/upptime/upptime>
