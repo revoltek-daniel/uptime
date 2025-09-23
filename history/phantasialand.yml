@@ -1,7 +1,7 @@
 url: https://shop.phantasialand.de
-status: up
-code: 200
-responseTime: 1345
-lastUpdated: 2025-09-23T04:21:55.143Z
+status: down
+code: 503
+responseTime: 1520
+lastUpdated: 2025-09-23T05:13:28.593Z
 startTime: 2024-01-01T00:16:17.545Z
 generator: Upptime <https://github.com/upptime/upptime>
