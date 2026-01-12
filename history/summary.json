@@ -11,9 +11,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "98.98%",
     "time": 1305,
-    "timeDay": 1275,
-    "timeWeek": 1252,
-    "timeMonth": 1226,
+    "timeDay": 1271,
+    "timeWeek": 1249,
+    "timeMonth": 1231,
     "timeYear": 1303,
     "dailyMinutesDown": {
       "2026-01-03": 30,
@@ -72,16 +72,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1101,
-    "timeDay": 1244,
-    "timeWeek": 1146,
-    "timeMonth": 1118,
-    "timeYear": 1101,
+    "timeDay": 1148,
+    "timeWeek": 1140,
+    "timeMonth": 1123,
+    "timeYear": 1102,
     "dailyMinutesDown": {
       "2025-11-12": 26,
       "2025-07-10": 21,
       "2025-01-25": 229,
-      "2025-01-21": 34,
-      "2025-01-12": 60
+      "2025-01-21": 34
     }
   },
   {
@@ -96,13 +95,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 665,
-    "timeDay": 735,
-    "timeWeek": 673,
-    "timeMonth": 663,
-    "timeYear": 664,
-    "dailyMinutesDown": {
-      "2025-01-12": 60
-    }
+    "timeDay": 734,
+    "timeWeek": 679,
+    "timeMonth": 666,
+    "timeYear": 665,
+    "dailyMinutesDown": {}
   },
   {
     "name": "BK Trinkgut",
@@ -115,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 2250,
-    "timeDay": 2670,
-    "timeWeek": 2450,
-    "timeMonth": 2423,
-    "timeYear": 2265,
+    "time": 2252,
+    "timeDay": 2551,
+    "timeWeek": 2459,
+    "timeMonth": 2429,
+    "timeYear": 2267,
     "dailyMinutesDown": {
       "2025-12-06": 23,
       "2025-11-25": 30,
@@ -150,9 +147,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1011,
-    "timeDay": 1110,
-    "timeWeek": 1068,
-    "timeMonth": 1035,
+    "timeDay": 1055,
+    "timeWeek": 1055,
+    "timeMonth": 1041,
     "timeYear": 1011,
     "dailyMinutesDown": {}
   }
