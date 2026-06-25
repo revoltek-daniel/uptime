@@ -4,16 +4,16 @@
     "url": "https://shop.phantasialand.de",
     "icon": "https://icons.duckduckgo.com/ip3/shop.phantasialand.de.ico",
     "slug": "phantasialand",
-    "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "99.62%",
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "91.35%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "99.60%",
     "time": 1287,
-    "timeDay": 1509,
-    "timeWeek": 1722,
-    "timeMonth": 1700,
+    "timeDay": 1491,
+    "timeWeek": 1715,
+    "timeMonth": 1699,
     "timeYear": 1287,
     "dailyMinutesDown": {
       "2025-07-16": 30,
@@ -72,7 +72,7 @@
       "2026-06-14": 16,
       "2026-06-15": 35,
       "2026-06-18": 44,
-      "2026-06-25": 0
+      "2026-06-25": 125
     }
   },
   {
@@ -89,7 +89,7 @@
     "time": 1112,
     "timeDay": 934,
     "timeWeek": 1071,
-    "timeMonth": 1093,
+    "timeMonth": 1094,
     "timeYear": 1114,
     "dailyMinutesDown": {
       "2025-07-10": 21,
@@ -138,7 +138,7 @@
     "time": 2471,
     "timeDay": 2074,
     "timeWeek": 2475,
-    "timeMonth": 2524,
+    "timeMonth": 2526,
     "timeYear": 2481,
     "dailyMinutesDown": {
       "2025-07-15": 28,
@@ -175,7 +175,7 @@
     "time": 1005,
     "timeDay": 813,
     "timeWeek": 955,
-    "timeMonth": 972,
+    "timeMonth": 971,
     "timeYear": 1005,
     "dailyMinutesDown": {
       "2026-02-12": 37,
