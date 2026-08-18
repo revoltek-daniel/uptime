@@ -4,16 +4,16 @@
     "url": "https://shop.phantasialand.de",
     "icon": "https://icons.duckduckgo.com/ip3/shop.phantasialand.de.ico",
     "slug": "phantasialand",
-    "status": "down",
+    "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.59%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.58%",
     "time": 1340,
-    "timeDay": 1681,
-    "timeWeek": 1735,
-    "timeMonth": 1761,
+    "timeDay": 1672,
+    "timeWeek": 1733,
+    "timeMonth": 1760,
     "timeYear": 1342,
     "dailyMinutesDown": {
       "2025-08-28": 17,
@@ -67,7 +67,8 @@
       "2026-06-29": 41,
       "2026-07-03": 80,
       "2026-08-02": 56,
-      "2026-08-09": 26
+      "2026-08-09": 26,
+      "2026-08-18": 27
     }
   },
   {
